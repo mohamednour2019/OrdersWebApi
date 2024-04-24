@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Orders.Presentation.API</name>
+    </assembly>
+    <members>
+        <member name="M:Orders.Presentation.API.Controllers.v1.OrdersController.GetOrders(Orders.Core.ServicesContracts.OrdersServicesContracts.GetOrdersServicesContracts.IGetOrdersService)">
+            <summary>
+            to get list of the orders with it's details.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
