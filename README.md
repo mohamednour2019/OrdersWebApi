@@ -33,7 +33,7 @@ This ASP.NET Web API application is designed to manage orders, including functio
 
 <h2>✨New Ideas</h2>
 
-**A Well Structured Action Result That Depends on Generic Presenter That Make the Code More Readable and Well Structured And Facilitate DRY Principle.**
+**A Well Structured Action Methods That Depends on Generic Presenter That Make the Code More Readable and Well Structured And Facilitate DRY Principle.**
 
 
 
